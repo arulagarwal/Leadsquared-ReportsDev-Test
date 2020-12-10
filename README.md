@@ -10,7 +10,7 @@ Email: <a href= "mailto:arul.agarwal2017@vitstudent.ac.in">arul.agarwal2017@vits
 
 
 <p>
-For solutions refer to: <a href="https://github.com/arulagarwal/Leadsquared-ReportsDev-Test/blob/main/Solution.md"> Solutions.md </a>
-For solutions in document format refer to: <a href = "https://github.com/arulagarwal/Leadsquared-ReportsDev-Test/blob/main/ReportsDev-Test.odt"> ReportsDev-Test.odt</a>
+For solutions refer to: <a href="https://github.com/arulagarwal/Leadsquared-ReportsDev-Test/blob/main/Solution.md"> Solutions.md </a><br>
+For solutions in document format refer to: <a href = "https://github.com/arulagarwal/Leadsquared-ReportsDev-Test/blob/main/ReportsDev-Test.odt"> ReportsDev-Test.odt</a><br>
 For sql queries you can also refer to <a href ="https://github.com/arulagarwal/Leadsquared-ReportsDev-Test/blob/main/Section1.sql">Section1.sql</a> 
 </p>
